@@ -1,6 +1,6 @@
 # Notes App
 ## About
-This is a real-time application built using Flutter & Sqflite that allows to save important notes according to the priority. It also keep track of date of creation of note and modification date. User can create and delete notes as per our requirement. And user can change the priority of not anytime.High priority notes will appear on the top of ListView while low priority notes will appear at the bottom of ListView.
+This is a real-time application built using Flutter & Sqflite that allows to save important notes according to the priority. It also keep track of creation date and modification date of note. User can create and delete notes as per their requirement. And user can change the priority of not anytime.High priority notes will appear on the top of ListView while low priority notes will appear at the bottom of ListView.
 
 ## Apk file
 
